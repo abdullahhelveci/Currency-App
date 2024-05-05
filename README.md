@@ -5,3 +5,7 @@ This project is a currency application. Users can perform currency calculations 
 <h2>Used Technologies</h2>
 
 Javascript, Css, React and axios API
+
+<h2>SreenShoot</h2>
+
+![](screen.png)
